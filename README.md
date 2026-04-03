@@ -1,7 +1,4 @@
-# Prices Predictor System 🚀
-
-**Author:** Kritan  
-**Role:** Student Project
+# Prices Predictor System 
 
 Welcome to the **Prices Predictor System**! This repository contains an end-to-end Machine Learning pipeline project that I built to predict prices using modern MLOps practices. 
 
@@ -24,7 +21,7 @@ Instead of a basic Jupyter Notebook, this project utilizes a robust architecture
 *   `run_pipeline.py`: The entry point script to execute the training pipeline.
 *   `run_deployment.py`: The entry point script to execute the continuous deployment and prediction pipeline.
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Set Up the Environment
 It is highly recommended to use a virtual environment (Python 3.10 is used here).
@@ -60,5 +57,5 @@ To stop the model prediction service, run:
 python run_deployment.py --stop-service
 ```
 
-## 📝 Learning Outcomes
+##  Learning Outcomes
 Building this system helped me understand how machine learning models transition from experimental notebooks into production-ready software using tools like ZenML and MLflow.
